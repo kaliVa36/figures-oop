@@ -1,0 +1,42 @@
+C:/Users/Andrey Ivanov/Desktop/app/bin/Debug/net8.0/app.exe
+C:/Users/Andrey Ivanov/Desktop/app/bin/Debug/net8.0/app.deps.json
+C:/Users/Andrey Ivanov/Desktop/app/bin/Debug/net8.0/app.runtimeconfig.json
+C:/Users/Andrey Ivanov/Desktop/app/bin/Debug/net8.0/app.dll
+C:/Users/Andrey Ivanov/Desktop/app/bin/Debug/net8.0/app.pdb
+C:/Users/Andrey Ivanov/Desktop/app/obj/Debug/net8.0/app.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Andrey Ivanov/Desktop/app/obj/Debug/net8.0/app.AssemblyInfoInputs.cache
+C:/Users/Andrey Ivanov/Desktop/app/obj/Debug/net8.0/app.AssemblyInfo.cs
+C:/Users/Andrey Ivanov/Desktop/app/obj/Debug/net8.0/app.csproj.CoreCompileInputs.cache
+C:/Users/Andrey Ivanov/Desktop/app/obj/Debug/net8.0/app.dll
+C:/Users/Andrey Ivanov/Desktop/app/obj/Debug/net8.0/refint/app.dll
+C:/Users/Andrey Ivanov/Desktop/app/obj/Debug/net8.0/app.pdb
+C:/Users/Andrey Ivanov/Desktop/app/obj/Debug/net8.0/app.genruntimeconfig.cache
+C:/Users/Andrey Ivanov/Desktop/app/obj/Debug/net8.0/ref/app.dll
+/Users/kalinavaleva/Downloads/app/bin/Debug/net8.0/app
+/Users/kalinavaleva/Downloads/app/bin/Debug/net8.0/app.deps.json
+/Users/kalinavaleva/Downloads/app/bin/Debug/net8.0/app.runtimeconfig.json
+/Users/kalinavaleva/Downloads/app/bin/Debug/net8.0/app.dll
+/Users/kalinavaleva/Downloads/app/bin/Debug/net8.0/app.pdb
+/Users/kalinavaleva/Downloads/app/obj/Debug/net8.0/app.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kalinavaleva/Downloads/app/obj/Debug/net8.0/app.AssemblyInfoInputs.cache
+/Users/kalinavaleva/Downloads/app/obj/Debug/net8.0/app.AssemblyInfo.cs
+/Users/kalinavaleva/Downloads/app/obj/Debug/net8.0/app.csproj.CoreCompileInputs.cache
+/Users/kalinavaleva/Downloads/app/obj/Debug/net8.0/app.dll
+/Users/kalinavaleva/Downloads/app/obj/Debug/net8.0/refint/app.dll
+/Users/kalinavaleva/Downloads/app/obj/Debug/net8.0/app.pdb
+/Users/kalinavaleva/Downloads/app/obj/Debug/net8.0/app.genruntimeconfig.cache
+/Users/kalinavaleva/Downloads/app/obj/Debug/net8.0/ref/app.dll
+/Users/kalinavaleva/Downloads/app_figures/bin/Debug/net8.0/app
+/Users/kalinavaleva/Downloads/app_figures/bin/Debug/net8.0/app.deps.json
+/Users/kalinavaleva/Downloads/app_figures/bin/Debug/net8.0/app.runtimeconfig.json
+/Users/kalinavaleva/Downloads/app_figures/bin/Debug/net8.0/app.dll
+/Users/kalinavaleva/Downloads/app_figures/bin/Debug/net8.0/app.pdb
+/Users/kalinavaleva/Downloads/app_figures/obj/Debug/net8.0/app.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kalinavaleva/Downloads/app_figures/obj/Debug/net8.0/app.AssemblyInfoInputs.cache
+/Users/kalinavaleva/Downloads/app_figures/obj/Debug/net8.0/app.AssemblyInfo.cs
+/Users/kalinavaleva/Downloads/app_figures/obj/Debug/net8.0/app.csproj.CoreCompileInputs.cache
+/Users/kalinavaleva/Downloads/app_figures/obj/Debug/net8.0/app.dll
+/Users/kalinavaleva/Downloads/app_figures/obj/Debug/net8.0/refint/app.dll
+/Users/kalinavaleva/Downloads/app_figures/obj/Debug/net8.0/app.pdb
+/Users/kalinavaleva/Downloads/app_figures/obj/Debug/net8.0/app.genruntimeconfig.cache
+/Users/kalinavaleva/Downloads/app_figures/obj/Debug/net8.0/ref/app.dll
